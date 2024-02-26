@@ -1,2 +1,6 @@
 The execution of this file also corresponds to the one starting with "PRP", 
 as explained in the description of the first numerical experiment.
+
+This version of Matlab runs the tests on MATLAB 2007b. 
+If it needs to be run on subsequent updated versions, 
+some functions that are not available due to software updates need to be resolved.
