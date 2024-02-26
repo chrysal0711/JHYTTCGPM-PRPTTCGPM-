@@ -1,1 +1,5 @@
-readme
+Readme
+In these methods, the functions PRPTTCGPM1, PRPTTCGPM2, PRPTTCGPM3, and PRPTTCGPM4 
+called in the code represent JHYTTCGPM(1-4) in this paper, which is 
+evident from the final plots. The program codes correspond accordingly, 
+as demonstrated in the subsequent numerical experiments for image restoration.
